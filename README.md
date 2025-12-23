@@ -1,4 +1,4 @@
-# SFT PyIDE
+# pyIDE
 
 A lightweight, starter **Python IDE** built with **PySide6** for Windows (and other desktop platforms) that focuses on the essentials: **tabbed editing**, **running code inside the IDE**, and **choosing which Python interpreter/version** to run your scripts with.
 
@@ -35,7 +35,7 @@ pip install PySide6
 ## Run
 
 ```bash
-python SFT_PyIDE.py
+python pyIDE.py
 ```
 
 ---
@@ -61,8 +61,3 @@ Some features you can add later:
 - Themes (light/dark), custom fonts, UI customization
 
 ---
-
-## License
-
-Choose the license you want for your project (MIT is common).  
-If you haven’t picked one yet, add a `LICENSE` file when you’re ready.
