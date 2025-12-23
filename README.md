@@ -1,9 +1,6 @@
 # pyIDE
 
 A lightweight, starter **Python IDE** built with **PySide6** for Windows (and other desktop platforms) that focuses on the essentials: **tabbed editing**, **running code inside the IDE**, and **choosing which Python interpreter/version** to run your scripts with.
-
-This project is designed to be a clean foundation that you can keep expanding over time (features can be added later without rewriting everything).
-
 ---
 
 ## Features
