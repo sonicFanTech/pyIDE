@@ -1,8 +1,11 @@
-# pyIDE
+------------------------------------------------------------
+What is PyIDE?
+------------------------------------------------------------
+SFT PyIDE is a lightweight, tab-based Python IDE built with a clean layout and
+practical tools for writing, editing, and running Python scripts.
 
-A lightweight, starter **Python IDE** built with **PySide6** for Windows (and other desktop platforms) that focuses on the essentials: **tabbed editing**, **running code inside the IDE**, and **choosing which Python interpreter/version** to run your scripts with.
----
-
+It is designed to work with *any* Python installation you already have (or add
+more later), so you can pick the interpreter you want per run.
 
 <img width="1201" height="800" alt="image" src="https://github.com/user-attachments/assets/552282ba-7c85-4c4b-9507-adf2bc44d0e5" />
 
