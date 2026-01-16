@@ -3,6 +3,9 @@
 A lightweight, starter **Python IDE** built with **PySide6** for Windows (and other desktop platforms) that focuses on the essentials: **tabbed editing**, **running code inside the IDE**, and **choosing which Python interpreter/version** to run your scripts with.
 ---
 
+
+<img width="1201" height="800" alt="image" src="https://github.com/user-attachments/assets/552282ba-7c85-4c4b-9507-adf2bc44d0e5" />
+
 ------------------------------------------------------------
  ## Main Features (Full Detail)
 ------------------------------------------------------------
