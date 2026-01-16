@@ -43,18 +43,3 @@ python pyIDE.py
 - To use the built-in compiler, PyInstaller must be installed (the Compiler window can do this for you).
 
 ---
-
-## Planned / Ideas for future updates
-
-Some features you can add later:
-
-- Project/file explorer sidebar
-- Find/Replace (Ctrl+F / Ctrl+H)
-- Line numbers + minimap
-- Auto-indent, formatting, linting (ruff/black)
-- Autocomplete / IntelliSense (LSP)
-- Run configurations (args, working directory, env vars)
-- Debugger integration
-- Themes (light/dark), custom fonts, UI customization
-
----
